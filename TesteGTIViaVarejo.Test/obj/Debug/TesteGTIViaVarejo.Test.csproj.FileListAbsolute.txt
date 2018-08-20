@@ -1,0 +1,9 @@
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\obj\Debug\TesteGTIViaVarejo.Test.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\bin\Debug\TesteGTIViaVarejo.Test.dll
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\bin\Debug\TesteGTIViaVarejo.Test.pdb
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\bin\Debug\TesteGTIViaVarejo.Lib.dll
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\bin\Debug\TesteGTIViaVarejo.Lib.pdb
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\obj\Debug\TesteGTIViaVarejo.Test.dll
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo.Test\obj\Debug\TesteGTIViaVarejo.Test.pdb

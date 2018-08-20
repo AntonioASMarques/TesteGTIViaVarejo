@@ -1,0 +1,6 @@
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo\bin\Debug\TesteGTIViaVarejo.exe.config
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo\bin\Debug\TesteGTIViaVarejo.exe
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo\bin\Debug\TesteGTIViaVarejo.pdb
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo\obj\Debug\TesteGTIViaVarejo.csprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo\obj\Debug\TesteGTIViaVarejo.exe
+C:\Users\anton\Desktop\temp_test\TesteGTIViaVarejo\TesteGTIViaVarejo\obj\Debug\TesteGTIViaVarejo.pdb
